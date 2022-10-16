@@ -1,4 +1,0 @@
-@import url(../css/websitemobile.css)(max-width:768px);
-
-@import url(../css/websitetab.css)(min-width: 768px) and (max-width: 1000px);
-@import url(../css/websitelaptop.css)(min-width:1000px);
