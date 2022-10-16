@@ -1,0 +1,5 @@
+@import url(/css/blogmobilesmaller.css)(max-width:290px);
+@import url(/css/blogmobilesmall.css)(min-width:290px) and (max-width:504px);
+@import url(/css/blogmobile.css)(max-width:768px);
+@import url(/css/blogtab.css)(min-width:768px) and (max-width:1000px);
+@import url(/css/bloglaptop.css)(min-width:1000px);
